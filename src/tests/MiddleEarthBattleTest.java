@@ -12,9 +12,9 @@ public class MiddleEarthBattleTest {
     @Test
     public void test1_VictoriaBien() {
         Map<String, Integer> bien = new HashMap<>();
-        bien.put("Elfos", 5); // 25
+        bien.put("Elfos", 5);
         Map<String, Integer> mal = new HashMap<>();
-        mal.put("Orcos", 5);  // 10
+        mal.put("Orcos", 5);
         assertTrue(simulador.calcularPuntos(bien, true) > simulador.calcularPuntos(mal, false));
     }
 

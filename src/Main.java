@@ -7,7 +7,6 @@ import java.util.Map;
 
 public class Main {
     public static void main(String[] args) {
-        // Instanciamos la lógica
         MiddleEarthBattle simulador = new MiddleEarthBattle();
 
         // --- EJÉRCITO DEL BIEN ---
@@ -29,7 +28,7 @@ public class Main {
         System.out.println("=== BATALLA POR LA TIERRA MEDIA ===");
         System.out.println("Puntos del Bien: " + puntosBien);
         System.out.println("Puntos del Mal: " + puntosMal);
-        System.out.println("-----------------------------------");
+
 
         if (puntosBien > puntosMal) {
             System.out.println("¡EL BIEN HA GANADO! La paz vuelve a los reinos.");
