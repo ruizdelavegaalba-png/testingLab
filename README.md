@@ -1,10 +1,10 @@
 # ⚔️ La Batalla por la Tierra Media
 
-Este proyecto consiste en un programa diseñado para calcular el resultado de una batalla épica entre las fuerzas del **Bien** y las fuerzas del **Mal**, basado en los valores de combate de sus distintas razas.
+Este proyecto consiste en un programa diseñado para calcular el resultado de una batalla  entre las fuerzas del **Bien** y las fuerzas del **Mal**, basado en los valores de combate de sus distintas razas.
 
 ## 📜 Descripción del Reto
 
-La Tierra Media está en guerra. Razas leales a Sauron se enfrentan a las razas bondadosas que luchan por la libertad. El objetivo es determinar quién gana el enfrentamiento sumando el valor total de cada ejército según sus integrantes.
+La Tierra Media está en guerra. Razas leales se enfrentan a las razas bondadosas que luchan por la libertad. El objetivo es determinar quién gana el enfrentamiento sumando el valor total de cada ejército según sus integrantes.
 
 ---
 
