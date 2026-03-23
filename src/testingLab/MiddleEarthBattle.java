@@ -5,7 +5,6 @@ import java.util.Map;
 
 public class MiddleEarthBattle {
 
-    // Reglas de puntuación (Nombre de raza -> Puntos)
     private final Map<String, Integer> reglasBien = new HashMap<>();
     private final Map<String, Integer> reglasMal = new HashMap<>();
 
